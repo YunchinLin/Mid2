@@ -10,7 +10,5 @@ public class Func6Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_func6);
-        Intent intent6 = new Intent(this, Func6Activity.class);
-        startActivity(intent6);
     }
 }

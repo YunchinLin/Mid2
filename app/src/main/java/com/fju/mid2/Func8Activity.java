@@ -10,7 +10,5 @@ public class Func8Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_func8);
-        Intent intent8 = new Intent(this, Func8Activity.class);
-        startActivity(intent8);
     }
 }

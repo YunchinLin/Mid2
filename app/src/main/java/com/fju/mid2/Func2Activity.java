@@ -10,7 +10,5 @@ public class Func2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_func2);
-        Intent intent2 = new Intent(this, Func2Activity.class);
-        startActivity(intent2);
     }
 }

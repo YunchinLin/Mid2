@@ -10,7 +10,5 @@ public class Func3Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_func3);
-        Intent intent3 = new Intent(this, Func3Activity.class);
-        startActivity(intent3);
     }
 }

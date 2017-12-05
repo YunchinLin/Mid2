@@ -10,7 +10,5 @@ public class Func5Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_func5);
-        Intent intent5 = new Intent(this, Func5Activity.class);
-        startActivity(intent5);
     }
 }
